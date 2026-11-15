@@ -1,0 +1,13 @@
+partner_id	partner_name	partner_segment	vehicle_class	contract_type	contract_start_date	discount_pct	amendment_date	discount_pct_after_amendment	peak_surcharge_billable	payment_terms_days	cities_active
+FP-01	FeastFly	food_delivery	2W	volume_tiered	4/1/2023	10			Y	30	BLR|DEL|HYD|PUN|MUM|JAI
+FP-02	ParcelNest	ecom_logistics	2W	pay_per_swap	7/1/2023	15			Y	30	BLR|DEL|HYD|MUM
+FP-03	ZipDrop	quick_commerce	2W	volume_tiered	6/1/2023	12	11/1/2024	28	N	45	BLR|DEL|HYD|PUN|MUM|JAI
+FP-04	CargoTuk	cargo_3w	3W	pay_per_swap	9/1/2023	8			Y	30	DEL|HYD|JAI
+FP-05	Swiggle Go	food_delivery	2W	volume_tiered	5/1/2023	11			N	30	BLR|PUN|MUM
+FP-06	RideMitra	bike_taxi	2W	pay_per_swap	8/1/2023	6			Y	15	BLR|DEL
+FP-07	QuickCart	quick_commerce	2W	pay_per_swap	1/15/2024	9			Y	30	DEL|HYD
+FP-08	DabbaXpress	food_delivery	2W	pay_per_swap	2/1/2024	8			Y	30	PUN|MUM
+FP-09	HaulKing	cargo_3w	3W	pay_per_swap	11/1/2023	7			Y	45	JAI|DEL
+FP-10	MetroMove	ecom_logistics	mixed	volume_tiered	3/1/2024	12			Y	30	BLR|MUM
+FP-11	LastMileHub	ecom_logistics	2W	pay_per_swap	4/1/2024	10			Y	30	HYD|PUN
+FP-12	UrbanErrand	bike_taxi	2W	pay_per_swap	1/1/2024	5			Y	15	JAI|PUN
